@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T15:34:44.407222+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-12-13T16:46:59.719192+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -39,11 +39,12 @@
             14,
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时46分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -72,6 +73,19 @@
           "time_info": "[11时20分 ~ 15时34分]"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 16时46分]"
+        },
+        {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
           "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
@@ -97,19 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时53分 ~ 14时06分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时34分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -226,11 +227,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 16时46分]"
         },
         {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
@@ -396,6 +398,18 @@
           "time_info": "[09时53分 ~ 11时20分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时46分]"
+        },
+        {
           "title": "特朗普回应与爱泼斯坦同框照片被公布",
           "url": "https://www.toutiao.com/trending/7582957093125636122/",
           "source": "今日头条",
@@ -436,7 +450,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -458,7 +472,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -507,15 +521,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "16时46分"
         },
         {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
@@ -575,11 +589,12 @@
             11,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 15时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 16时46分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -702,8 +717,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时25分 ~ 15时34分]"
+          "appearance_count": 11,
+          "time_info": "[06时25分 ~ 16时46分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
