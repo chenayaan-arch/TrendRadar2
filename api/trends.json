@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:20:23.018994+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-12-23T17:18:38.461987+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -19,18 +19,6 @@
           "time_info": "[00时16分 ~ 09时01分]"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 16时20分]"
-        },
-        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -39,8 +27,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 17时18分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -54,17 +65,6 @@
           "time_info": "[00时16分 ~ 09时01分]"
         },
         {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时20分]"
-        },
-        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://news.ifeng.com/c/8pJISSb6yhX",
           "source": "凤凰网",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 17时18分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -83,11 +83,12 @@
             7,
             9,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 17时18分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -101,6 +102,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            19,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 17时18分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -131,31 +147,29 @@
           "time_info": "[11时21分 ~ 15时19分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 16时20分]"
-        },
-        {
           "title": "特朗普：美国“必须得到格陵兰岛”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             26,
             24,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时18分]"
+        },
+        {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -405,6 +419,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普为何要造战列舰",
+          "url": "https://www.toutiao.com/trending/7586940405795524115/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时18分]"
         },
         {
           "title": "特朗普“黄金舰队”计划何时能实现",
@@ -682,17 +708,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "特朗普为何要造战列舰",
-          "url": "https://www.toutiao.com/trending/7586940405795524115/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
           "url": "https://flash.jin10.com/detail/20251223061914810800",
           "source": "金十数据",
@@ -850,7 +865,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -959,6 +974,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251223050534192800",
           "source": "金十数据",
@@ -1057,11 +1083,12 @@
           "url": "https://wallstreetcn.com/livenews/3025481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时18分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1107,7 +1134,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
@@ -1130,8 +1157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时13分 ~ 16时20分]"
+          "appearance_count": 18,
+          "time_info": "[01时13分 ~ 17时18分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
