@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T22:25:21.805007+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2025-12-25T23:26:30.404632+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 23时26分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -227,6 +227,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
@@ -263,8 +274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时01分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[10时01分 ~ 23时26分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -486,7 +497,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         }
@@ -506,8 +517,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
