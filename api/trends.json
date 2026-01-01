@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:13:06.919854+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-01T20:26:45.835375+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -44,17 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -105,6 +94,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时26分]"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
@@ -253,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 20时26分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -363,11 +364,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时26分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -376,11 +378,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时26分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -388,11 +391,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
