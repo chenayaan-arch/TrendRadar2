@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T22:24:27.851549+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-01-11T23:25:40.777059+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -85,21 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时30分 ~ 22时24分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时12分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[13时30分 ~ 23时25分]"
         },
         {
           "title": "特朗普画饼翻车,油企拒投不接盘",
@@ -113,6 +100,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[19时21分 ~ 22时24分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[12时12分 ~ 23时25分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -162,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时26分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[17时26分 ~ 23时25分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -268,17 +269,31 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时50分 ~ 23时25分]"
+        },
+        {
           "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
           "url": "https://flash.jin10.com/detail/20260111203059463800",
           "source": "金十数据",
           "ranks": [
             1,
             3,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时25分]"
         },
         {
           "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
@@ -292,15 +307,15 @@
           "time_info": "15时26分"
         },
         {
-          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
-          "url": "https://flash.jin10.com/detail/20260111220151159800",
-          "source": "金十数据",
+          "title": "特朗普被曝正考虑多个干涉伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3034755",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时25分"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -314,16 +329,18 @@
           "time_info": "00时31分"
         },
         {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
+          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
+          "url": "https://wallstreetcn.com/livenews/3034734",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            2,
+            6,
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时50分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时25分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -395,19 +412,6 @@
           "time_info": "[10时13分 ~ 15时26分]"
         },
         {
-          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
-          "url": "https://wallstreetcn.com/livenews/3034734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时24分]"
-        },
-        {
           "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
           "url": "https://flash.jin10.com/detail/20260111185036309800",
           "source": "金十数据",
@@ -419,6 +423,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时22分 ~ 21时34分]"
+        },
+        {
+          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
+          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时25分]"
+        },
+        {
+          "title": "特朗普：将不会再有石油或资金流入古巴",
+          "url": "https://wallstreetcn.com/livenews/3034737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时25分]"
         },
         {
           "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
@@ -447,16 +477,16 @@
           "time_info": "[12时13分 ~ 14时39分]"
         },
         {
-          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
-          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
+          "url": "https://flash.jin10.com/detail/20260111220151159800",
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "time_info": "[22时24分 ~ 23时25分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -496,18 +526,6 @@
           "time_info": "[18时27分 ~ 19时22分]"
         },
         {
-          "title": "特朗普：将不会再有石油或资金流入古巴",
-          "url": "https://wallstreetcn.com/livenews/3034737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时24分]"
-        },
-        {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
           "url": "https://wallstreetcn.com/livenews/3034575",
           "source": "华尔街见闻-快讯",
@@ -518,6 +536,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 10时13分]"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时25分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -539,19 +571,6 @@
             8,
             10,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时24分]"
-        },
-        {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
-          "url": "https://wallstreetcn.com/livenews/3034723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            23
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -753,8 +772,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 22时24分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 23时25分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -786,51 +805,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时24分]"
-        },
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时50分 ~ 22时24分]"
-        },
-        {
-          "title": "下周看点：美股Q4财报季拉开帷幕",
-          "url": "https://www.toutiao.com/trending/7593513607846166538/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
+          "url": "https://flash.jin10.com/detail/20260111230441184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
@@ -849,6 +848,49 @@
           "source": "百度热搜",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时50分 ~ 23时25分]"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "下周看点：美股Q4财报季拉开帷幕",
+          "url": "https://www.toutiao.com/trending/7593513607846166538/",
+          "source": "今日头条",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
