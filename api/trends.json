@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T20:22:15.467805+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-01-24T21:26:37.361141+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 20时22分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 21时26分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时19分 ~ 20时22分]"
+          "appearance_count": 12,
+          "time_info": "[14时19分 ~ 21时26分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时31分 ~ 20时22分]"
+          "appearance_count": 16,
+          "time_info": "[11时31分 ~ 21时26分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -169,11 +169,12 @@
             14,
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时14分 ~ 20时22分]"
+          "appearance_count": 11,
+          "time_info": "[15时14分 ~ 21时26分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -288,17 +289,6 @@
           "time_info": "[10时01分 ~ 15时14分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
           "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
           "url": "https://wallstreetcn.com/livenews/3043164",
           "source": "华尔街见闻-快讯",
@@ -325,15 +315,31 @@
           "time_info": "[10时01分 ~ 14时19分]"
         },
         {
-          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
-          "url": "https://flash.jin10.com/detail/20260124191803265800",
-          "source": "金十数据",
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4,
+            13,
+            17,
+            25,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 21时26分]"
+        },
+        {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 21时26分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -350,6 +356,20 @@
           "time_info": "[10时01分 ~ 13时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 21时26分]"
+        },
+        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -362,20 +382,6 @@
           "time_info": "[03时28分 ~ 07时27分]"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 20时22分]"
-        },
-        {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
           "url": "https://flash.jin10.com/detail/20260124031952416800",
           "source": "金十数据",
@@ -386,19 +392,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 10时01分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -447,6 +440,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时26分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -666,6 +671,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "特朗普卡尼“口水仗”升级",
           "url": "https://www.toutiao.com/trending/7597980626083610630/",
           "source": "今日头条",
@@ -702,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时26分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[07时26分 ~ 21时26分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -717,8 +733,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时26分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[07时26分 ~ 21时26分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1025,8 +1041,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 21时26分]"
         }
       ]
     }
