@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:07:09.948800+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-01-30T12:01:56.583085+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 09时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时01分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -52,6 +53,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 12时01分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -181,19 +195,6 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 09时07分]"
-        },
-        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -245,6 +246,17 @@
           "time_info": "[02时31分 ~ 04时19分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
+        },
+        {
           "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
           "url": "https://flash.jin10.com/detail/20260130015749406800",
           "source": "金十数据",
@@ -282,6 +294,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
         },
         {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
@@ -344,17 +368,6 @@
           "time_info": "[01时31分 ~ 02时31分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -401,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
@@ -504,9 +506,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普听取多种打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3046958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "今晚官宣！特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "特朗普起诉自己的政府部门 索赔100亿美元",
@@ -515,7 +561,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -531,6 +577,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
           "url": "https://flash.jin10.com/detail/20260130063254804800",
           "source": "金十数据",
@@ -542,13 +599,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美媒：特朗普“会面+通话”，敲定沃什为下一任美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20260130112120127800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国总统特朗普：不知道政府是否会关门，正与国会合作。",
           "url": "https://flash.jin10.com/detail/20260130082854842800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -581,7 +649,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -592,7 +660,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -625,7 +693,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -647,9 +715,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3046944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -669,7 +748,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -691,7 +770,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -713,7 +792,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -801,7 +880,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -823,7 +902,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -845,7 +924,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -889,9 +968,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普与前美联储理事沃什会面",
+          "url": "https://wallstreetcn.com/livenews/3046922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
@@ -939,11 +1029,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 09时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时01分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -953,8 +1044,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时01分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -977,18 +1080,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 09时07分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -1174,7 +1265,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
@@ -1234,7 +1325,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
