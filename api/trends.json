@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-02-11T01:09:36.334919+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-11T01:56:20.346442+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260211013116861800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美股1月日均成交额突破1万亿美元",
+          "url": "https://flash.jin10.com/detail/20260211005235441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260211013017856800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -15,8 +88,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -37,8 +110,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
+          "url": "https://wallstreetcn.com/livenews/3053180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
@@ -65,59 +149,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
-        },
-        {
-          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
-        },
-        {
-          "title": "美股1月日均成交额突破1万亿美元",
-          "url": "https://flash.jin10.com/detail/20260211005235441800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。",
@@ -129,6 +162,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
+          "url": "https://flash.jin10.com/detail/20260211012335531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
+          "url": "https://flash.jin10.com/detail/20260211012231222800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
@@ -163,11 +218,12 @@
           "url": "https://wallstreetcn.com/livenews/3053171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时56分]"
         },
         {
           "title": "新兴市场货币指数刷新日高，美元走软。",
@@ -211,8 +267,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时56分]"
         }
       ]
     }
