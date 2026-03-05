@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:27:13.272214+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-03-05T20:36:32.736170+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时36分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -75,11 +75,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时36分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -96,6 +97,17 @@
           "time_info": "[00时31分 ~ 09时10分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 20时36分]"
+        },
+        {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
           "url": "https://news.ifeng.com/c/8rFCPechKEM",
           "source": "凤凰网",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时40分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 19时27分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -159,6 +160,18 @@
           "time_info": "[00时31分 ~ 09时10分]"
         },
         {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 20时36分]"
+        },
+        {
           "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -168,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 19时27分]"
         },
         {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
@@ -215,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -286,7 +287,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -418,7 +419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -581,8 +582,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时21分 ~ 20时36分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -633,6 +634,17 @@
           "time_info": "[00时31分 ~ 13时41分]"
         },
         {
+          "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时36分]"
+        },
+        {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，油价再度跳水，韩股暴力反弹近10%，白银跌3%",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
@@ -642,17 +654,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 18时31分]"
-        },
-        {
-          "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "哔哩哔哩美股盘前涨超5%，公司第四季度净营业额83.2亿元，同比增长8%。",
@@ -801,7 +802,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
