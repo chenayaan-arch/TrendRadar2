@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T19:28:57.794391+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-03-09T20:37:03.828353+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 20时37分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时37分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -125,15 +136,16 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 20时37分]"
         },
         {
           "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
@@ -216,6 +228,17 @@
           "time_info": "[12时07分 ~ 16时33分]"
         },
         {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
           "url": "https://wallstreetcn.com/livenews/3065878",
           "source": "华尔街见闻-快讯",
@@ -226,17 +249,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
@@ -311,17 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 17时38分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -558,7 +559,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
