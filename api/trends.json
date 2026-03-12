@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T17:34:14.298752+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-03-12T18:29:59.438168+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时19分 ~ 17时34分]"
+          "appearance_count": 15,
+          "time_info": "[06时19分 ~ 18时29分]"
         },
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -44,6 +44,19 @@
           "time_info": "[13时43分 ~ 17时34分]"
         },
         {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
           "url": "https://wallstreetcn.com/articles/3767194",
           "source": "华尔街见闻",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时17分]"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时43分 ~ 17时34分]"
         },
         {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -107,6 +107,30 @@
           "time_info": "[00时40分 ~ 07时17分]"
         },
         {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
           "url": "https://www.cls.cn/detail/2310196",
           "source": "财联社热门",
@@ -130,29 +154,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 06时19分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 17时34分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时34分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -256,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普：知道伊朗的“沉睡特工”在哪",
@@ -539,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AF%B9%E5%8D%8E%E6%96%B0%E8%B4%B8%E6%98%93%E8%B0%83%E6%9F%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
@@ -951,8 +974,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 17时34分]"
+          "appearance_count": 14,
+          "time_info": "[07时16分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -1171,7 +1194,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
