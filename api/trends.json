@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-02T17:52:05.251702+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-04-02T18:43:06.071701+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 131,
+      "match_count": 135,
       "titles": [
+        {
+          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
+          "url": "https://wallstreetcn.com/articles/3769022",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
+          "url": "https://wallstreetcn.com/articles/3769051",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
+        },
         {
           "title": "马克龙访日暗讽特朗普",
           "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
@@ -19,6 +43,17 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
+          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
+          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
+        },
+        {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
           "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
           "source": "凤凰网",
@@ -28,6 +63,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：若无协议将袭伊所有发电厂",
+          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -42,6 +88,19 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时43分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -53,16 +112,19 @@
           "time_info": "[00时02分 ~ 06时27分]"
         },
         {
-          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
-          "url": "https://wallstreetcn.com/articles/3769022",
-          "source": "华尔街见闻",
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
           "ranks": [
+            7,
+            4,
             3,
-            4
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
         },
         {
           "title": "特朗普称将很快撤出伊朗战事",
@@ -76,20 +138,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
-          "url": "https://wallstreetcn.com/articles/3769051",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时43分]"
         },
         {
           "title": "特朗普：接下来几周将对伊朗进行更强火力打击",
@@ -105,53 +155,17 @@
           "time_info": "[12时19分 ~ 17时52分]"
         },
         {
-          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
-          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普：若无协议将袭伊所有发电厂",
-          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
-        },
-        {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 17时52分]"
-        },
-        {
-          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
-          "url": "https://www.cls.cn/detail/2332994",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
         },
         {
           "title": "特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”",
@@ -179,6 +193,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 12时19分]"
+        },
+        {
+          "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
+          "url": "https://news.ifeng.com/c/8ryg5lk6hFZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时43分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -244,6 +269,44 @@
           "time_info": "[12时19分 ~ 16时55分]"
         },
         {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
+          "url": "https://www.toutiao.com/trending/7623977327684226579/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2022963312019685502",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普称美军将很快撤出伊朗战事",
           "url": "https://www.toutiao.com/trending/7622967334319521811/",
           "source": "今日头条",
@@ -256,51 +319,65 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 18时43分]"
         },
         {
           "title": "中方回应特朗普鼓动各国抢石油",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 18时43分]"
         },
         {
-          "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
-          "url": "https://news.ifeng.com/c/8ryg5lk6hFZ",
-          "source": "凤凰网",
+          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时59分 ~ 18时43分]"
         },
         {
-          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
-          "url": "https://www.toutiao.com/trending/7623977327684226579/",
-          "source": "今日头条",
+          "title": "中方回应特朗普涉伊朗言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%BC%8A%E6%9C%97%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时59分 ~ 18时43分]"
+        },
+        {
+          "title": "中方回应特朗普鼓动他国“抢石油”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E4%BB%96%E5%9B%BD%E2%80%9C%E6%8A%A2%E7%9F%B3%E6%B2%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             7,
+            15,
             12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
+          "time_info": "[15时59分 ~ 18时43分]"
         },
         {
           "title": "美以伊战争丨特朗普讲话被批老调重弹",
@@ -314,15 +391,18 @@
           "time_info": "[12时19分 ~ 14时06分]"
         },
         {
-          "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2022963312019685502",
-          "source": "知乎",
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
           "ranks": [
-            11
+            27,
+            26,
+            9,
+            16
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时52分]"
+          "time_info": "[15时59分 ~ 18时43分]"
         },
         {
           "title": "特朗普称伊朗新政权总统请求停火",
@@ -338,29 +418,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时28分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 17时52分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "美以伊战争丨特朗普：要是没达成协议，我就怪万斯",
@@ -487,19 +544,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时59分 ~ 17时52分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗曾希望生产尽可能多的导弹。",
           "url": "https://flash.jin10.com/detail/20260402091014188800",
           "source": "金十数据",
@@ -511,6 +555,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "印尼财长：美国总统特朗普不太可能长期允许高油价。",
+          "url": "https://flash.jin10.com/detail/20260402182529072800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "国际油价短线拉升转涨。特朗普称，美国不需要来自中东的石油。",
           "url": "https://wallstreetcn.com/livenews/3081197",
           "source": "华尔街见闻-快讯",
@@ -520,43 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "中方回应特朗普鼓动他国“抢石油”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E4%BB%96%E5%9B%BD%E2%80%9C%E6%8A%A2%E7%9F%B3%E6%B2%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时59分 ~ 17时52分]"
-        },
-        {
-          "title": "中方回应特朗普涉伊朗言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%BC%8A%E6%9C%97%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时59分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时59分 ~ 17时52分]"
         },
         {
           "title": "特朗普话音刚落 伊朗向以发射导弹",
@@ -645,6 +663,17 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
+          "title": "特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！",
+          "url": "https://www.cls.cn/detail/2333042",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 18时43分]"
+        },
+        {
           "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
           "url": "https://wallstreetcn.com/articles/3768990",
           "source": "华尔街见闻",
@@ -692,6 +721,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时45分]"
+        },
+        {
+          "title": "伊朗称特朗普宣布虚假胜利",
+          "url": "https://wallstreetcn.com/livenews/3081486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时43分]"
         },
         {
           "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
@@ -763,17 +804,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！",
-          "url": "https://www.cls.cn/detail/2333042",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "美国总统特朗普威胁称，除非欧洲加入霍尔木兹海峡联盟，否则将停止向乌克兰提供武器。（英国金融时报）",
@@ -889,15 +919,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "伊朗称特朗普宣布虚假胜利",
-          "url": "https://wallstreetcn.com/livenews/3081486",
+          "title": "印尼财长：特朗普不太可能长期允许油价居高不下。 印度尼西亚有望在2026年实现6%的国内生产总值增长。 印度尼西亚今年将征收煤炭出口税。",
+          "url": "https://wallstreetcn.com/livenews/3081528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "18时43分"
         },
         {
           "title": "美国总统特朗普将伊朗抗议活动死亡人数修正为45,000人，此前他公布的死亡人数为32,000人。",
@@ -1019,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普以升级求降级？收益率飙升压制无息黄金 | 每日市场观察4.2",
+          "url": "https://flash.jin10.com/detail/20260402182057793800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "特朗普白宫讲话宣布美国大赢特赢，鼓动缺油国家自行“抢油”",
@@ -1239,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-02）",
+          "url": "https://flash.jin10.com/detail/20260402181609366800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "据纽约时报：多家美国情报机构最近评估认为，伊朗政府目前不愿意进行实质性谈判以结束战争。美国情报部门称，伊朗方面认为特朗普对谈判缺乏诚意。",
@@ -1541,8 +1593,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 17时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时43分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1747,7 +1799,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "ClaudeCode源码泄露",
@@ -1778,11 +1830,12 @@
             19,
             20,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 16时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 18时43分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -1800,8 +1853,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 17时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时43分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -1817,11 +1870,12 @@
             19,
             25,
             23,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 18时43分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -1834,11 +1888,12 @@
             16,
             14,
             22,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 16时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 18时43分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -1891,6 +1946,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时52分 ~ 05时33分]"
+        },
+        {
+          "title": "周鸿祎谈Claude Code源码泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         }
       ]
     },
@@ -2002,11 +2068,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 18时43分]"
         },
         {
           "title": "阿里千问发布新一代大语言模型QWEN3.6-PLUS。",
