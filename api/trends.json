@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:24:02.883846+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-04-10T22:11:12.728202+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 21时24分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 22时11分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -111,6 +111,18 @@
           "time_info": "[00时12分 ~ 09时21分]"
         },
         {
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 22时11分]"
+        },
+        {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
           "url": "https://www.cls.cn/detail/2339900",
           "source": "财联社热门",
@@ -122,6 +134,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时21分 ~ 16时47分]"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 22时11分]"
         },
         {
           "title": "拜登儿子“约战”特朗普儿子",
@@ -148,16 +172,16 @@
           "time_info": "[09时21分 ~ 16时47分]"
         },
         {
-          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
           "ranks": [
-            4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时24分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 22时11分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -223,21 +247,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
-        },
-        {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 21时24分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -288,18 +300,6 @@
           "time_info": "[04时44分 ~ 05时39分]"
         },
         {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时24分]"
-        },
-        {
           "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
           "url": "https://news.ifeng.com/c/8sCrezhn1o8",
           "source": "凤凰网",
@@ -344,6 +344,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 14时27分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 22时11分]"
         },
         {
           "title": "特朗普对鲤鱼宣战",
@@ -464,17 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时39分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "美国总统特朗普对达成伊朗和平协议“持乐观态度”。 如果伊朗不达成协议，后果将很痛苦。（NBC）",
@@ -754,6 +754,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "美官员：特朗普对以施压要求放缓袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3085942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "据NBC新闻：特朗普谈及伊朗时表示，如果他们不达成协议，那将会非常痛苦。",
           "url": "https://flash.jin10.com/detail/20260410011759715800",
           "source": "金十数据",
@@ -831,6 +842,17 @@
           "time_info": "18时55分"
         },
         {
+          "title": "特朗普称赞“世界上最强大的重置”，但未作详细说明",
+          "url": "https://wallstreetcn.com/livenews/3085968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "据悉内塔尼亚胡是在与特朗普通话后同意与黎巴嫩谈判",
           "url": "https://flash.jin10.com/detail/20260409234405510800",
           "source": "金十数据",
@@ -856,7 +878,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -1034,7 +1056,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1045,7 +1067,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1089,9 +1111,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美股三大股指小幅高开，道指涨0.03%，标普500指数涨0.27%，纳指涨0.4%。光通信股走高，Lumentum涨超1%，公司预计两个季度就能把未来三年的产能全卖光。",
+          "url": "https://wallstreetcn.com/livenews/3085936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
@@ -1299,11 +1332,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 21时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 22时11分]"
         }
       ]
     }
