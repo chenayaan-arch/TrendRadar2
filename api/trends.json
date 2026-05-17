@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T22:22:05.971110+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-17T23:50:33.036469+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -44,6 +44,20 @@
           "time_info": "[00时44分 ~ 18时17分]"
         },
         {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 23时50分]"
+        },
+        {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
           "url": "https://www.zhihu.com/question/2039019083463488463",
           "source": "知乎",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 09时58分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 22时22分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -142,8 +143,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时09分 ~ 22时22分]"
+          "appearance_count": 8,
+          "time_info": "[16时09分 ~ 23时50分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -159,6 +160,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时48分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 23时50分]"
         },
         {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
@@ -183,27 +196,15 @@
           "time_info": "19时54分"
         },
         {
-          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
-          "url": "https://flash.jin10.com/detail/20260517213955159800",
-          "source": "金十数据",
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时09分 ~ 20时54分]"
+          "time_info": "[19时54分 ~ 23时50分]"
         },
         {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
@@ -217,6 +218,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 16时10分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时50分]"
         },
         {
           "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
@@ -257,17 +270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 04时38分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时22分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
@@ -447,6 +449,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
           "url": "https://flash.jin10.com/detail/20260516214353885800",
           "source": "金十数据",
@@ -508,6 +521,19 @@
           "time_info": "[00时44分 ~ 22时22分]"
         },
         {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 23时50分]"
+        },
+        {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
@@ -520,19 +546,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时44分 ~ 16时10分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 22时22分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -574,8 +587,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时50分]"
         }
       ]
     },
