@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:48:07.583384+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-05-18T10:10:06.713943+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -28,11 +28,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 10时10分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -60,6 +61,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时53分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -200,6 +223,17 @@
           "time_info": "[06时43分 ~ 07时48分]"
         },
         {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：特朗普对以色列媒体表示，‘伊朗应当感到恐惧，并对我保持警惕。’",
           "url": "https://flash.jin10.com/detail/20260518010104759800",
           "source": "金十数据",
@@ -217,7 +251,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -312,11 +346,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 10时10分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -345,7 +380,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -357,6 +392,34 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 07时48分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
+          "url": "https://www.zhihu.com/question/2037925163765691524",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         }
       ]
     }
