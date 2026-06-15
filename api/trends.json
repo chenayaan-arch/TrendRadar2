@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:02:07.707121+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-06-15T12:42:05.353740+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 08时02分]"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "特朗普宣布美伊达成和平协议",
@@ -211,6 +222,50 @@
           "time_info": "[03时08分 ~ 06时07分]"
         },
         {
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
           "url": "https://flash.jin10.com/detail/20260615035634239800",
           "source": "金十数据",
@@ -221,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时07分]"
+        },
+        {
+          "title": "特朗普：若未达成核协议将重启打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E6%9C%AA%E8%BE%BE%E6%88%90%E6%A0%B8%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%87%8D%E5%90%AF%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "以方消息人士：内塔尼亚胡寻求在G7后紧急会晤特朗普",
@@ -291,13 +357,24 @@
           "time_info": "06时07分"
         },
         {
+          "title": "伊以看穿特朗普底牌？三国博弈百日后剧本推演！",
+          "url": "https://flash.jin10.com/detail/20260615121004096800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普：伊朗协议是在内塔尼亚胡反对的情况下达成的。 若无法达成核协议，美国将恢复对伊朗的打击。 谅解备忘录将暂停霍尔木兹海峡的收费60天。 协议将确保海峡永远不收通行费。 内塔尼亚胡“很难”说服。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3119311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -396,7 +473,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -440,7 +517,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -451,7 +528,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -495,7 +572,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -528,7 +605,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -546,8 +623,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 12时42分]"
         }
       ]
     },
@@ -577,11 +654,12 @@
           "url": "https://www.cls.cn/detail/2399448",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 12时42分]"
         }
       ]
     },
