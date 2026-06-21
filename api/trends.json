@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:06:20.535570+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-06-21T10:37:53.943736+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -50,11 +50,12 @@
             5,
             4,
             7,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -76,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         },
         {
           "title": "特朗普：若不能达成协议，美或收取海峡通行费",
@@ -86,9 +87,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 10时37分]"
         },
         {
           "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
@@ -139,6 +140,17 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -178,7 +190,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -209,8 +221,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -221,8 +233,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时37分]"
         }
       ]
     },
