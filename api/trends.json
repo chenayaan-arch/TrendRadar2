@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T20:02:39.999164+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-07-04T22:23:53.787669+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
@@ -48,9 +48,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "22时23分"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -123,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 22时23分]"
         },
         {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
@@ -147,11 +159,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 22时23分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -160,9 +173,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时23分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时23分]"
         },
         {
           "title": "美国250周年遇上特朗普",
@@ -174,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -266,6 +279,73 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 22时23分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 09时57分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时14分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时02分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 5,
       "titles": [
@@ -338,62 +418,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 20时02分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 09时57分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时14分]"
-        },
-        {
-          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
-          "url": "https://wallstreetcn.com/articles/3776162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 20时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -404,11 +428,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 22时23分]"
         }
       ]
     },
