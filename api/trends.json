@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-24T09:32:09.932834+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-07-24T13:01:48.976489+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时46分]"
-        },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
@@ -30,8 +19,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 09时32分]"
+          "appearance_count": 9,
+          "time_info": "[02时07分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 06时46分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -40,11 +40,12 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 09时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 13时01分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时01分]"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -75,7 +76,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -158,6 +159,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
           "url": "https://wallstreetcn.com/livenews/3139040",
           "source": "华尔街见闻-快讯",
@@ -167,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
@@ -271,7 +294,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -293,8 +316,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 09时32分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 13时01分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 13时01分]"
         },
         {
           "title": "美股",
@@ -309,19 +345,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 07时50分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 09时32分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -343,8 +366,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 13时01分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -442,7 +476,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -522,6 +556,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
           "url": "https://flash.jin10.com/detail/20260724010724640800",
           "source": "金十数据",
@@ -547,7 +592,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -644,6 +689,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时46分]"
+        },
+        {
+          "title": "谷歌最新AI报告颠覆认知：AI没有取代白领，正在成为人类“协作者”",
+          "url": "https://flash.jin10.com/detail/20260724121536506800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
