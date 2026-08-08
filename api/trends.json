@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:20:20.322222+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-08-08T20:25:05.345712+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时03分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时03分 ~ 20时25分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时44分 ~ 19时20分]"
+          "appearance_count": 19,
+          "time_info": "[03时44分 ~ 20时25分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -74,6 +74,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时49分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时25分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -184,17 +197,15 @@
           "time_info": "[04时29分 ~ 08时48分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时25分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -247,15 +258,16 @@
           "time_info": "[03时44分 ~ 05时28分]"
         },
         {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
+          "url": "https://flash.jin10.com/detail/20260808183100642800",
+          "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时20分]"
+          "time_info": "[19时20分 ~ 20时25分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -326,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
-          "url": "https://flash.jin10.com/detail/20260808183100642800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -516,11 +517,12 @@
           "ranks": [
             5,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[08时48分 ~ 20时25分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -545,8 +547,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 20时25分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -560,8 +562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时24分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[06时24分 ~ 20时25分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -702,11 +704,12 @@
             7,
             5,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[08时48分 ~ 20时25分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -721,8 +724,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时44分 ~ 19时20分]"
+          "appearance_count": 19,
+          "time_info": "[03时44分 ~ 20时25分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -797,11 +800,12 @@
             22,
             24,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 20时25分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -825,11 +829,12 @@
           "url": "https://www.zhihu.com/question/2069009991709857177",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时25分]"
         }
       ]
     },
