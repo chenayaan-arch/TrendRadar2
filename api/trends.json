@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:16:42.486371+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-08-10T15:08:35.286390+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 13时16分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 15时08分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -85,6 +85,19 @@
           "time_info": "[08时54分 ~ 13时16分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
           "url": "https://wallstreetcn.com/livenews/3147162",
           "source": "华尔街见闻-快讯",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 13时16分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -143,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 15时08分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时22分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时08分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -194,24 +206,13 @@
           "time_info": "08时54分"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
           "title": "内塔尼亚胡算了一笔账：惹怒特朗普，竟成他眼下“最不坏的选择”",
           "url": "https://flash.jin10.com/detail/20260810123837709800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -244,9 +245,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -266,6 +278,19 @@
           "time_info": "[00时21分 ~ 08时54分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时24分 ~ 15时08分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -276,18 +301,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 08时54分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时24分 ~ 13时16分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -308,7 +321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
@@ -316,7 +329,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
@@ -328,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -340,11 +364,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时08分]"
         }
       ]
     },
