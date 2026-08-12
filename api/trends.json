@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:23:10.778729+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-08-12T15:08:29.368326+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 15时08分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -50,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时29分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 15时08分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -254,8 +254,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 15时08分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
