@@ -1,8 +1,209 @@
 {
-  "generated_at": "2026-08-12T09:01:44.629412+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-08-12T11:23:10.778729+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 09时01分]"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://flash.jin10.com/detail/20260812053053264800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时29分]"
+        },
+        {
+          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
+          "url": "https://flash.jin10.com/detail/20260812052220258800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3148261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
+          "url": "https://flash.jin10.com/detail/20260812050519717800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
+          "url": "https://wallstreetcn.com/livenews/3148157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3148156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
+          "url": "https://flash.jin10.com/detail/20260812001133689800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
+          "url": "https://flash.jin10.com/detail/20260812001111070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
+          "url": "https://flash.jin10.com/detail/20260812001107875800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260812005559330800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：美国公民罗伯特·吉尔曼，一名前美国海军陆战队员，正在回家。",
+          "url": "https://flash.jin10.com/detail/20260812001057496800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 15,
@@ -37,11 +238,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 11时23分]"
         },
         {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
@@ -52,8 +254,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 11时23分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
@@ -186,184 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时01分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时01分]"
-        },
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://flash.jin10.com/detail/20260812053053264800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时29分]"
-        },
-        {
-          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
-          "url": "https://flash.jin10.com/detail/20260812052220258800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3148261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时29分]"
-        },
-        {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
-          "url": "https://flash.jin10.com/detail/20260812064319870800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
-          "url": "https://wallstreetcn.com/livenews/3148157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3148156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
-          "url": "https://flash.jin10.com/detail/20260812001133689800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
-          "url": "https://flash.jin10.com/detail/20260812001111070800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
-          "url": "https://flash.jin10.com/detail/20260812001107875800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
-          "url": "https://flash.jin10.com/detail/20260812005559330800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：美国公民罗伯特·吉尔曼，一名前美国海军陆战队员，正在回家。",
-          "url": "https://flash.jin10.com/detail/20260812001057496800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
         }
       ]
     },
@@ -586,11 +610,12 @@
             19,
             14,
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 11时23分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -619,22 +644,24 @@
             6,
             4,
             3,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 11时23分]"
         },
         {
           "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
           "url": "https://www.zhihu.com/question/2070443311802867884",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时23分]"
         }
       ]
     }
