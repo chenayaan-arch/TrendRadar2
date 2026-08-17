@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-17T15:43:34.209744+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-17T18:21:53.934830+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时36分 ~ 18时21分]"
+        },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
           "url": "https://wallstreetcn.com/articles/3779521",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时13分 ~ 08时36分]"
-        },
-        {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时36分 ~ 15时43分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -64,6 +64,17 @@
           "time_info": "[11时40分 ~ 14时32分]"
         },
         {
+          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181911430800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -73,6 +84,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
+        },
+        {
+          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181853245800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 18时21分]"
         },
         {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
@@ -86,17 +121,28 @@
           "time_info": "08时36分"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "特朗普为何关键时刻与韩国作对",
+          "url": "https://www.toutiao.com/trending/7674921028065168932/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            5,
-            6
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时40分 ~ 15时43分]"
+          "time_info": "[14时32分 ~ 18时21分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -120,18 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时10分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时43分]"
         },
         {
           "title": "特朗普已指示“大幅缩减”美韩军演",
@@ -222,6 +256,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-17）",
+          "url": "https://flash.jin10.com/detail/20260817181137295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "特朗普称被韩方拒绝",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A2%AB%E9%9F%A9%E6%96%B9%E6%8B%92%E7%BB%9D%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -272,7 +317,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -367,11 +412,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 18时21分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -402,7 +448,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -513,17 +559,6 @@
           "time_info": "[02时13分 ~ 11时40分]"
         },
         {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 04时10分]"
-        },
-        {
           "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
           "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
           "source": "澎湃新闻",
@@ -533,8 +568,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时36分 ~ 18时21分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时36分 ~ 15时43分]"
+          "time_info": "[02时13分 ~ 04时10分]"
         }
       ]
     },
