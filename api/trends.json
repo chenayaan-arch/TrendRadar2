@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T14:32:23.054158+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-08-17T15:43:34.209744+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -19,6 +19,18 @@
           "time_info": "[02时13分 ~ 08时36分]"
         },
         {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 15时43分]"
+        },
+        {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
           "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
           "source": "凤凰网",
@@ -30,17 +42,6 @@
           "time_info": "[02时13分 ~ 04时10分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时36分 ~ 14时32分]"
-        },
-        {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
           "url": "https://news.ifeng.com/c/8vegxyVDbqF",
           "source": "凤凰网",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 15时43分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -90,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时43分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -118,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时10分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时43分]"
         },
         {
           "title": "特朗普已指示“大幅缩减”美韩军演",
@@ -208,24 +222,13 @@
           "time_info": "03时14分"
         },
         {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "特朗普称被韩方拒绝",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A2%AB%E9%9F%A9%E6%96%B9%E6%8B%92%E7%BB%9D%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -261,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普会让美航母全面退化吗",
+          "url": "https://www.toutiao.com/trending/7674860385295404590/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
@@ -310,8 +324,21 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时43分]"
+        },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
           "url": "https://www.zhihu.com/question/2072481373085028433",
@@ -335,16 +362,16 @@
           "time_info": "08时36分"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
           "ranks": [
-            2,
-            7
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 15时43分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -369,15 +396,15 @@
           "time_info": "08时36分"
         },
         {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "15时43分"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -452,9 +479,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时43分]"
         },
         {
           "title": "OpenAI CEO：大学读两年就够了",
@@ -463,9 +490,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时43分]"
         }
       ]
     },
@@ -506,8 +533,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 15时43分]"
         }
       ]
     },
